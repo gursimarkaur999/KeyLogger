@@ -1,9 +1,6 @@
 <!-- Step-1 Identify the project -->
 
 # Key Logger
-
-[Github Repository](https://github.com/gursimarkaur999/KeyLogger, 'Key Logger')
-
 ###### By Gursimar Kaur
 ---
 <!-- Step-2 Evaluate the project -->
